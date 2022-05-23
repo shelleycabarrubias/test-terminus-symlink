@@ -21,8 +21,7 @@ To install this plugin place it in `~/.terminus/plugins/`.
 
 On Mac OS/Linux:
 ```
-mkdir -p ~/.terminus/plugins
-curl https://github.com/shelleycabarrubias/test-terminus-symlink/archive/2.x.tar.gz -L | tar -C ~/.terminus/plugins -xvz
+To be figured out :(
 ```
 
 ## Help
