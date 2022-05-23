@@ -1,6 +1,6 @@
 # Terminus Plugin Symlink
 
-[![Terminus v1.x Compatible](https://img.shields.io/badge/terminus-v1.x-green.svg)](https://github.com/pantheon-systems/terminus-plugin-example/tree/1.x)
+[![Terminus v2.x Compatible](https://img.shields.io/badge/terminus-v2.x-green.svg)](https://github.com/pantheon-systems/terminus-plugin-example/tree/2.x)
 
 A simple plugin for Terminus-CLI to create symlink.
 
@@ -22,7 +22,7 @@ To install this plugin place it in `~/.terminus/plugins/`.
 On Mac OS/Linux:
 ```
 mkdir -p ~/.terminus/plugins
-curl https://github.com/pantheon-systems/terminus-plugin-example/archive/1.x.tar.gz -L | tar -C ~/.terminus/plugins -xvz
+curl https://github.com/pantheon-systems/terminus-plugin-example/archive/2.x.tar.gz -L | tar -C ~/.terminus/plugins -xvz
 ```
 
 ## Help
